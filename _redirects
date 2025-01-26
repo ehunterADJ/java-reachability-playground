@@ -2,3 +2,8 @@
 /old-blog/post-1 /blog/post-1 301!
 /special-page /new-special 200!
 /old44 /new44 301
+/about-us /new-about-us 301
+/old-blog/post-1 /blog/post-1 301!
+/contact /new-contact 302
+/gone-page * 404
+/special-page /new-special 200!
