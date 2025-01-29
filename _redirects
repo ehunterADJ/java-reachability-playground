@@ -1,7 +1,5 @@
-/about-us /new-about-us 301
 /contact /new-contact 302
-/about-us /new-about-us 301
 /old-blog/post-1 /blog/post-1 301!
-/contact /new-contact 302
+/contact3 /new-contact 302
 /gone-page /page7 404
 /special-page /new-special 200!
