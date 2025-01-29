@@ -3,3 +3,8 @@
 /contact /new-contact 302
 /gone-page * 404
 /old /new3333 301!
+/about-us /new-about-us 301
+/old-blog/post-1 /blog/post-1 301!
+/contact /new-contact 302
+/gone-page * 404
+/special-page /new-special 200!
